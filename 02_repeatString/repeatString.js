@@ -4,6 +4,7 @@ const repeatString = function(string,num) {
   {
     str.push(string);
   }
+  return str.join('');
 };
 
 // Do not edit below this line
